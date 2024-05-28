@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VH\\NT106.O23.1_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|c:\\vh\\nt106.o23.1_lab4\\lab4-webserver\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\showweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\showweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\showweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\showweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|C:\\VH\\NT106.O23.1_Lab4\\lab4-webserver\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D6EEB-FECC-4AA1-851E-6A34EF0A9680}|Lab4-webserver\\Lab4-webserver.csproj|solutionrelative:lab4-webserver\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Menu.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.cs [Design]",
+              "RelativeToolTip": "Lab4-webserver\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:53:45.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Menu.Designer.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.Designer.cs",
+              "RelativeToolTip": "Lab4-webserver\\Menu.Designer.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAASwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:52:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Menu.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Menu.cs",
+              "RelativeToolTip": "Lab4-webserver\\Menu.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:52:06.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowWeb.cs",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\ShowWeb.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\ShowWeb.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\ShowWeb.cs",
+              "RelativeToolTip": "Lab4-webserver\\ShowWeb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:03:23.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowWeb.cs [Design]",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\ShowWeb.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\ShowWeb.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\Lab4_LTM\\Lab4-webserver\\ShowWeb.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\Lab4_LTM\\Lab4-webserver\\ShowWeb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:03:22.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datve.cs",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Datve.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Datve.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Datve.cs",
+              "RelativeToolTip": "Lab4-webserver\\Datve.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:57:57.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Datve.cs [Design]",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Datve.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Datve.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\Lab4_LTM\\Lab4-webserver\\Datve.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\Lab4_LTM\\Lab4-webserver\\Datve.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:57:56.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Bai4.cs",
+              "ToolTip": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Bai4.cs",
+              "RelativeToolTip": "Lab4-webserver\\Bai4.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA3wC0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:54:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai4.cs [Design]",
+              "DocumentMoniker": "C:\\VH\\NT106.O23.1_Lab4\\Lab4-webserver\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab4-webserver\\Bai4.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab4_LTM\\Lab4-webserver\\Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:54:01.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
